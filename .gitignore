@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.wrangler/
+.vite/
+.env*
+.dev.vars*
+wrangler.json
+*.tsbuildinfo
+*.log
+backups/
+*.docx
+*.odt
+*.pdf
+*.xlsx
